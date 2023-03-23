@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FG NYX Mobile</string>
+    <string name="btnuploadTxt">Upload</string>
+    <string name="bottomViewText">Upload UCC</string>
+    <string name="input_codeText">Input Code</string>
+    <string name="viewMidTxt">Input Scan</string>
+    <string name="selected_item">Selected item:</string>
+    <string-array name="Warehouse">
+        <item>FGD 1</item>
+        <item>FGD 2</item>
+        <item>FGD 3</item>
+        <item>FGD 4</item>
+        <item>FGD 5</item>
+        <item>FGD 6</item>
+    </string-array>
+</resources>
